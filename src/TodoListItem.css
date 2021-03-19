@@ -1,0 +1,21 @@
+.complete {
+  text-decoration: line-through;
+}
+#submitB{
+  margin-left: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 6px;
+  padding-left: 6px;
+  border-radius: 4px;
+  background-color: #93329e;
+  color: #ffe3fe;
+}
+#blankB{
+  background-color:#ffe3fe ;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border-radius: 6px;
+}
